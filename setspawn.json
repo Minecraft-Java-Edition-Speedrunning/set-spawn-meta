@@ -715,6 +715,12 @@
       "seed_name": "stack_of_flint",
       "x": 5.5,
       "z": 214.5
+    },
+    {
+      "seed": "1115280",
+      "seed_name": "water_in_the_nether",
+      "x": 121,
+      "z": 57
     }
   ]
 }
